@@ -1,1 +1,1 @@
-# algorithm assignment
+# algorithm class assignment
